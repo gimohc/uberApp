@@ -1,7 +1,5 @@
 import { Stack } from "expo-router";
 import "react-native-reanimated";
-import "../global.css";
-
 import React from "react";
 
 const Layout = () => {
